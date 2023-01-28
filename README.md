@@ -21,7 +21,7 @@
 ![Rabbitmq](https://img.shields.io/badge/Rabbitmq-005571?logo=rabbitmq&color=white)
 
 #### AWS 
-![AWS](https://img.shields.io/badge/AWS-005571?logo=amazonaws&color=white)
+![AWS](https://img.shields.io/badge/AWS-005571?logo=amazonaws&color=orange)
 ![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-005571?logo=amazonec2&color=white)
 ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-005571?logo=amazons3&color=white)
 ![Amazon API Gateway](https://img.shields.io/badge/Amazon%20API%20Gateway-005571?logo=amazonapigateway&color=white)
