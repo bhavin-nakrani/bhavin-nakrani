@@ -57,3 +57,15 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-005571?logo=visualstudiocode)
 ![PhpStorm](https://img.shields.io/badge/PhpStorm-005571?logo=phpstorm&color=blue)
 
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=bhavin-nakrani&theme=dark&background=0d1117)](https://git.io/streak-stats)
+
+<img width="450" align="center" src="https://github-readme-stats-defcon27.vercel.app/api?username=bhavin-nakrani&show_icons=true&line_height=21&theme=react" alt="Bhavin Nakrani's Github Stats" />
+
+![Profile Views](https://komarev.com/ghpvc/?username=bhavin-nakrani)
+
+### 🤝🏻 Connect with Me
+<a href="mailto:bhavin.it8488@gmail.com"><img src="https://img.shields.io/badge/bhavin.it8488@gmail.com-b23e2f?logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/bhavin-nakrani-4658726b/"><img src="https://img.shields.io/badge/Bhavin%20Nakrani-blue?logo=linkedin&logoColor=white"></a>
+<a href="https://stackoverflow.com/users/6056191/bhavin-nakrani"><img src="https://img.shields.io/badge/Bhavin%20Nakrani-red?logo=stackoverflow&logoColor=white"></a>
