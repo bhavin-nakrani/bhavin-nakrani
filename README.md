@@ -69,3 +69,4 @@
 <a href="mailto:bhavin.it8488@gmail.com" target="_blank"><img src="https://img.shields.io/badge/bhavin.it8488@gmail.com-b23e2f?logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/bhavin-nakrani-4658726b/" target="_blank"><img src="https://img.shields.io/badge/Bhavin%20Nakrani-blue?logo=linkedin&logoColor=white"></a>
 <a href="https://stackoverflow.com/users/6056191/bhavin-nakrani" target="_blank"><img src="https://img.shields.io/badge/Bhavin%20Nakrani-red?logo=stackoverflow&logoColor=white"></a>
+<a href="https://bhavin-nakrani.medium.com" target="_blank"><img src="https://img.shields.io/badge/medium-005571?logo=medium&color=blue"></a>
