@@ -1,6 +1,5 @@
 ### 👨🏻‍💻 About me
 🎓 Hi, I’m @bhavin-nakrani, Full stack developer<br/>
-👨‍💻 Lead Software Engineer at Simform Solutions <br/>
 
 ### :hammer_and_wrench: Tech Stack
 
